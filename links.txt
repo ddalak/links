@@ -1,0 +1,7 @@
+http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/
+https://pypi.python.org/pypi/haystack
+http://www.trilithium.com/johan/2005/08/linux-gate/
+http://dev-console.blogspot.com/2012/01/some-knowledge-about-vdso.html
+http://www.geeksforgeeks.org/memory-layout-of-c-program/
+http://ftp.gnu.org/pub/old-gnu/Manuals/ld-2.9.1/html_node/ld_3.html
+http://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64/
